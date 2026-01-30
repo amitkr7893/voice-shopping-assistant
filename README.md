@@ -6,8 +6,6 @@ A voice-based shopping list manager that allows users to add, remove, search, an
 ### 🔗 Deployed URL
 https://voice-shopping-assistant-tau.vercel.app
 
-### 🔗 GitHub Repository
-https://github.com/amitkr7893/voice-shopping-assistant
 
 ## Brief Approach
 
@@ -65,7 +63,7 @@ Search items by voice (e.g., “Search apples”)
 
 Displays matching items instantly
 
-## UI / UX
+## UI/UX
 
 Minimalist and mobile-friendly interface
 
