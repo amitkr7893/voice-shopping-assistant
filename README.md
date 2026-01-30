@@ -1,4 +1,4 @@
-# Voice Command Shopping Assistant
+# Voice Shopping Assistant
 
 A voice-based shopping list manager that allows users to add, remove, search, and manage shopping items using natural voice commands, with smart suggestions, quantity handling, and multilingual support.
 
@@ -9,7 +9,7 @@ https://voice-shopping-assistant-tau.vercel.app
 ### 🔗 GitHub Repository
 https://github.com/amitkr7893/voice-shopping-assistant
 
-## Brief Approach (≤ 200 words)
+## Brief Approach
 
 This project was designed as a voice-first shopping assistant focused on simplicity, usability, and real-world behavior. The application uses the browser’s Web Speech API for voice recognition, allowing users to interact naturally using spoken commands. To handle flexible phrasing and multilingual input, voice commands are normalized and processed through a lightweight NLP layer that extracts actions, items, and quantities.
 
